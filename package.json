@@ -2,6 +2,7 @@
   "name": "ubcn-qr-generator",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://ubcn-e-platform.github.io/ubcn-qr-generator",
   "type": "module",
   "engines": {
     "node": ">=20",
